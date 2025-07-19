@@ -4,7 +4,7 @@ import { NavLink, BrowserRouter } from "react-router";
 
 const NavBar: React.FC<{}> = () => {
   return (
-    <div className="border-b-2 border-[#a08af7] text-[#d7e6fb] flex justify-between">
+    <div className="mt-5 border-b-2 border-[#a08af7] text-[#d7e6fb] flex justify-between">
       <div className="p-2 flex border-[#a08af7]">
         <div className=" bg-[#a08af7] rounded-full h-3 w-3 m-1"></div>
         <div className=" bg-[#a08af7] rounded-full h-3 w-3 m-1"></div>
